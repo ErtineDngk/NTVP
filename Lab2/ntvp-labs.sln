@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{290ADC33-CF92-4A70-AAC2-74EB1DE564BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{14BE37CA-F3FC-4B5A-912D-1C9BF0CCBDF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{F9696193-A74E-434C-9A7D-99B3CC863AC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{290ADC33-CF92-4A70-AAC2-74EB1DE564BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290ADC33-CF92-4A70-AAC2-74EB1DE564BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290ADC33-CF92-4A70-AAC2-74EB1DE564BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290ADC33-CF92-4A70-AAC2-74EB1DE564BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BE37CA-F3FC-4B5A-912D-1C9BF0CCBDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BE37CA-F3FC-4B5A-912D-1C9BF0CCBDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BE37CA-F3FC-4B5A-912D-1C9BF0CCBDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BE37CA-F3FC-4B5A-912D-1C9BF0CCBDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9696193-A74E-434C-9A7D-99B3CC863AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9696193-A74E-434C-9A7D-99B3CC863AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9696193-A74E-434C-9A7D-99B3CC863AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9696193-A74E-434C-9A7D-99B3CC863AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
